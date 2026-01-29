@@ -1,0 +1,188 @@
+JM5 Portfolio - Jacopo Margini | Software Developer Portfolio
+
+=== PORTFOLIO CONTENT DOCUMENTATION ===
+Last Updated: 29 January 2026
+Version: 2.1
+Developer: Jacopo Margini (Age: 15)
+School: ITI Silvio D'Arzo - Computer Science
+
+# sidebar
+
+alt = JM5 is a dev
+Jacopo Margini
+Software Developer
+
+Show Contacts
+
+Email
+marginijacopo@gmail.com
+
+Phone
++39 388 577 6821
+
+Birthday
+21 December 2009
+
+Location
+Canossa, Reggio Emilia, Emilia Romagna, Italy
+
+# navbar
+
+About
+Projects
+Education
+Experience
+Contact
+
+# about
+
+About me
+
+I'm Jacopo Margini, a software developer passionate about technology and innovation. I specialize in development with C++, Python and Arduino, transforming complex ideas into elegant and functional software solutions.
+
+My goal is to create applications that are not only technically robust, but also intuitive and user-friendly. Through this portfolio you can explore my projects, my educational journey and the skills I have acquired in the world of technological development.
+
+
+## service
+
+What programming languages ​​do I know?
+
+alt = C++ icon
+C++
+C++ is a programming language used to create almost any type of program: games, device drivers, HPC, cloud, desktop, embedded and mobile apps and much more.
+
+alt = Python icon
+Python
+Python is a high-level programming language used for developing distributed applications, scripting, numerical computation, and system testing.
+
+alt = HTML icon
+HTML
+HTML is the standard markup language used to create and structure the content of web pages.
+
+alt = CSS icon
+CSS
+CSS is a language that allows you to define the presentation (visual appearance) of HTML, XHTML and XML documents.
+
+alt = JavaScript icon
+JavaScript
+JavaScript is a scripting language used primarily for web development, but also for creating server-side and desktop applications.
+
+
+My skills
+
+C++
+90%
+Python
+60%
+HTML
+80%
+CSS
+70%
+JavaScript
+60%
+Arduino
+80%
+Prompting
+100%
+
+## key achievements
+
+- ITI Computer Science Student (2023-present)
+- Arduino & Robotics Developer
+- C++ Programming Expert (90% skill level)
+- Collaborative Project Leader (Robot Arm Project)
+- Web Development Portfolio Creator
+
+## current focus
+
+- Arduino Projects & Embedded Systems
+- C++ Advanced Programming
+- Web Development (HTML5, CSS3, JavaScript)
+- AI Prompting & Technology Integration
+- Robotics & Mechatronics Collaboration
+
+
+
+# education
+
+Education
+
+Silvio D'Arzo High School
+2023 — present
+In this school there are many addresses, among these I chose ITI computer science because I have always been interested in the world of computer science. In this school I study the main programming languages ​​to develop apps, games, websites.
+
+Gregorio VII Middle School
+2020 — 2023
+In this school you study general subjects until you get to the third year I had to make the choice of what I wanted to do in the future which then led me to choose computer science.
+
+
+
+# projects
+
+Projects
+
+alt = Tetris Neon game
+TETRIS NEON
+HTML, CSS, JavaScript
+
+alt = Sudoku game
+SUDOKU
+HTML, CSS, JavaScript
+
+
+
+# experience
+
+Experience
+
+School project: robot arm
+2024 — 2025
+Project initiated by the TTRG professor, which included three different classes of directors with different tasks: computer technician (software part), mechatronics (hardware part) and graphic (video and photo editing)
+
+
+
+# contact
+
+Contact
+
+contact me
+
+Email
+marginijacopo@gmail.com
+
+Phone
++39 388 577 6821
+
+Instagram
+@jacopo_margini_09
+
+TikTok
+@jacopo.margini
+
+## portfolio features
+
+- Responsive Design (Mobile-First Approach)
+- Modern UI/UX with Dark Theme
+- Smooth Animations and Transitions
+- Interactive Navigation System
+- Cross-Browser Compatibility
+- Fast Loading and Optimized Performance
+- Clean Code Architecture (HTML5, CSS3, Vanilla JS)
+
+## technical specifications
+
+- Framework: Vanilla HTML5, CSS3, JavaScript
+- Icons: Ion Icons Library
+- Fonts: Google Fonts (Poppins)
+- Responsive: Mobile, Tablet, Desktop
+- Browser Support: Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+- Performance: Optimized images and code
+- Accessibility: Semantic HTML and proper contrast
+
+## project goals
+
+- Showcase programming skills and projects
+- Document educational journey
+- Professional online presence
+- Connect with tech community
+- Share Arduino and C++ expertise
